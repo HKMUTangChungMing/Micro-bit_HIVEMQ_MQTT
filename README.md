@@ -10,6 +10,8 @@ Micro-bit_HIVEMQ_MQTT
 
 ## Elec freaks Smart AI Lens Kit Wi-Fi Control LED with English
 
+# DEMO
+
 # *Hardware*
 
 First Micro:bit with Elec freaks Smart AI Lens Kit.(Publisher)
