@@ -12,6 +12,8 @@ Micro-bit_HIVEMQ_MQTT
 
 # DEMO
 
+![t1swq-sn9cm.gif](https://s2.loli.net/2025/04/25/xQ4umOVt5jks8Za.gif)
+
 # *Hardware*
 
 First Micro:bit with Elec freaks Smart AI Lens Kit.(Publisher)
